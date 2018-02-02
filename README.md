@@ -7,4 +7,6 @@ The basic face recognition tutorial demonstrates how to extract face(s) from the
 - Compare two faces and guest similar or not (Face verification).
 
 # Step-by-step
-- 
+- __[Install `face_recognition` library](https://github.com/mrolarik/basic-face-recognition-tutorial/blob/master/001-face_recognition.ipynb)__
+- __[Face detection using `face_recognition` library](https://github.com/mrolarik/basic-face-recognition-tutorial/blob/master/002-face-detection.ipynb)__
+- __[Face detection using `OpenCV` library](https://github.com/mrolarik/basic-face-recognition-tutorial/blob/master/003-face-detection-opencv.ipynb)__
